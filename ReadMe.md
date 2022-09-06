@@ -2,7 +2,6 @@
 - 👀 I’m interested in Video gaming, Software development, game development 
 - 🌱 I’m currently learning Computer Science in Minnesota State University, Mankato
 - 📫 How to reach me ... You can mail me at rizwanchowdhury2250@gmail.com
--    LinkedIn  - www.linkedin.com/in/rizwanlikhon
 -    Instagram - www.instagram.com/rizwan_likhon
 <!---
 RizwanLikhon/RizwanLikhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
